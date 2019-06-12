@@ -4,8 +4,9 @@
 <p>
 The dataset is available at https://openpolicing.stanford.edu/data/ </p>
   <p>
-Using the above dataset one can make conclusions and also answers to some questions if asked .
-The questions that I made for myself based on the dataset and got the answer for is given as follows :-
+Using the above dataset one can make conclusions and also answers to some questions if asked .</p>
+<p>
+The questions that I made for myself based on the dataset and got the answer for is given as follows :- </p>
 Do men or women speed more often?
 Does gender affect who gets searched during a stop?
 Why is search_type missing so often?
