@@ -1,7 +1,9 @@
 # Stanford-policing
-Its a data science-cum-ML project analyzing the stanford policing service dataset.
-This project uses numpy, Pandas and matplotlib
-The dataset is available at https://openpolicing.stanford.edu/data/
+## Its a data science-cum-ML project analyzing the stanford policing service dataset.
+### This project uses numpy, Pandas and matplotlib.
+<p>
+The dataset is available at https://openpolicing.stanford.edu/data/ <p>
+  
 Using the above dataset one can make conclusions and also answers to some questions if asked .
 The questions that I made for myself based on the dataset and got the answer for is given as follows :-
 Do men or women speed more often?
